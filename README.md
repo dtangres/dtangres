@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Daniel and I like to code. My interests vary widely, from optimization to security. 
+
+Stuff I'm working on:
+- Subgrubs 'n' Snazzards' official server bot, [Sausage](https://github.com/theSignSaysDie/sausage-FOUR).
+- Assorted bits and bobs [here](https://github.com/theSignSaysDie/portfolio).
+
+I'm looking for a place to work on something cool with like-minded devs.
+
+You can find me with these icons.
+[<img src="icons/mail.svg" height="50">](mailto:d.t.angres@gmail.com) [<img src="icons/brand-linkedin.svg" height="50">](https://www.linkedin.com/in/daniel-angres-66080417a/)
+
 <!--
 **theSignSaysDie/theSignSaysDie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
