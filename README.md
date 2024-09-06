@@ -8,7 +8,8 @@ Stuff I'm working on:
 
 I'm looking for a place to work on something cool with like-minded devs.
 
-You can find me with these icons.
+You can find me in these places.
+
 [<img src="icons/mail.svg" height="50">](mailto:d.t.angres@gmail.com) [<img src="icons/brand-linkedin.svg" height="50">](https://www.linkedin.com/in/daniel-angres-66080417a/)
 
 <!--
