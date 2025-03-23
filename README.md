@@ -3,8 +3,8 @@
 I'm Daniel and I like to code. My interests vary widely, from optimization to security. 
 
 Stuff I'm working on:
-- Subgrubs 'n' Snazzards' official server bot, [Sausage](https://github.com/theSignSaysDie/sausage-FOUR).
-- Assorted bits and bobs [here](https://github.com/theSignSaysDie/portfolio).
+- Subgrubs 'n' Snazzards' official [server bot](https://github.com/dtangres/Subgrubs-n-Snazzards-Bot).
+- Assorted bits and bobs [here](https://github.com/dtangres/portfolio).
 
 I'm looking for a place to work on something cool with like-minded devs.
 
